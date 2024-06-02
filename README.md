@@ -19,4 +19,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=duongkienvn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=duongkien&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
